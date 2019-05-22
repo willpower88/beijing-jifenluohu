@@ -22,6 +22,7 @@
 ## 2.社保查询
 * 网址：http://www.bjrbj.gov.cn/csibiz/indinfo/login.jsp
 * 登录后查询 查询管理-->个人缴费信息查询
+
 ![](https://github.com/willpower88/beijing-jifenluohu/blob/master/doc/image/shebao-fee.png)
 ## 3.纳税查询
 * 支付宝 -->  城市服务-->  北京税务 --> 个税查询
