@@ -29,8 +29,8 @@
 * 登录后按年度查询
 ![](https://github.com/willpower88/beijing-jifenluohu/blob/master/doc/image/tax.jpeg)
 ## 4.学历学位认证编码
-* 学历网址（学信网）：https://www.chsi.com.cn/
-* 申请学历“在线验证报告”
+* 网址（学信网）：https://www.chsi.com.cn/
+* 申请学历“在线验证报告”，获取学历验证编码
 ![](https://github.com/willpower88/beijing-jifenluohu/blob/master/doc/image/certificat.png)
 * 2008年9月1日前的学位需要申请认证，网址：https://www.chinadegrees.cn/cqva/gateway.html
 * 登录后发起申请，获取“学位验证编码"
@@ -42,5 +42,5 @@
 * 在第一步时已注册北京通，直接用北京通登录
 ![](https://github.com/willpower88/beijing-jifenluohu/blob/master/doc/image/beijingtong-login.png)
 * 登录后  --> 网上查询 -->  权利人查询
-> 这里特别注意，什么都不要填写，直接查询
+  > 这里特别注意，什么都不要填写，直接查询
 * 获取"不动产登记信息查询结果告知单"
