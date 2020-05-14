@@ -20,7 +20,7 @@
 
 * 再登录上面网站
 ## 2.社保查询
-* 网址：http://www.bjrbj.gov.cn/csibiz/indinfo/login.jsp
+* 网址：http://fuwu.rsj.beijing.gov.cn/csibiz/indinfo/index.jsp
 * 登录后查询 查询管理-->个人缴费信息查询
 
 ![](https://github.com/willpower88/beijing-jifenluohu/blob/master/doc/image/shebao-fee.png)
